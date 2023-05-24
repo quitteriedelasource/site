@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:wght@500&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/gallery.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/tableau.css");
+@import url("components/formulaire.css");
+@import url("components/button.css");
+@import url("components/logo.css");
+
+
+body{
+  	font-family: 'Made Tommy', sans-serif;
+  	font-size: 18px;
+    background-color:#1A4939;
+    color:#F4E9D7;
+    text-align: center;
+  }
+
+ h1 { 
+  font-family: 'Brush Script Thin', sans-serif;
+ }
+ h2,h3 { 
+ 	font-family: 'Made Tommy', sans-serif;
+ 	font-weight : bold;
+ }
+ h4 { 
+  font-family: 'Made Tommy', sans-serif;
+  color:#DA0654;
+  font-size: 20px;
+  font-style: bold;
+ }
+
+ h5 { 
+  font-family: 'Made Tommy', sans-serif;
+   font-size: 25px;
+ }
+
+a{
+  color:#F4E9D7;
+  text-decoration:none;
+  font-family:Made tommy;
+  letter-spacing: 2px;
+  font-weight: 500;
+  font-size: 13;
+  transition:color 0.3s ease;
+  text-align: left;
+}
+
+a:hover{
+  color:#feaac7; 
+ }
+
+footer {
+    font-family: 'Made Tommy', sans-serif;
+    font-size: 12px;
+    color:#F4E9D7;
+    text-align: left;
+}
+
+h5,p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+ h6 { 
+  font-family: 'Made Tommy', sans-serif;
+  font-weight : bold;
+  font-size: 20px;
+  text-align: center;
+ }
+
+
+
+
+
+
